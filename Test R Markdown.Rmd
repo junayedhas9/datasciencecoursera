@@ -1,0 +1,12 @@
+# R Markdown
+## Test Run
+
+**What is Big Data?**
+
+Big data can be explained with 3 of its qualities:
+
+- Volume  
+- Velocity  
+- Variety
+
+[Learn more on Big Data](https://en.wikipedia.org/wiki/Big_data)
